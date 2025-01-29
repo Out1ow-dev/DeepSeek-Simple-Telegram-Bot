@@ -1,6 +1,6 @@
 # DeepSeek.Bot
 
-Простая реализация Telegram бота, используещего ИИ DeepSeek
+This is a simple implementation of a Telegram Bot processing a message and sending a response from DeepSeek
 
 # Installation
 
