@@ -8,7 +8,8 @@
 2) Go to the website (https://openrouter.ai/deepseek/deepseek-r1:free) and create an Api key, paste into appconfig.json.
 3) Launch the application and check the operation of your bot
 
-![image](https://github.com/user-attachments/assets/bde586f4-ead5-40db-b5c2-c3230cfa9470)
+![image](https://github.com/user-attachments/assets/24f5ff20-6555-4f6c-a8f4-9c521ae184ff)
+
 
 
 # Known Issues:
