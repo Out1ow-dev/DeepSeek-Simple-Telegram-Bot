@@ -1,0 +1,15 @@
+{
+  "exclude": [
+    "**/bin",
+    "**/bower_components",
+    "**/jspm_packages",
+    "**/node_modules",
+    "**/obj",
+    "**/platforms"
+  ],
+  "Token": "BOT_TOKEN",
+  "ApiKey": "YOUR_API_KEY",
+  "OpenRouter": {
+    "Model": "deepseek/deepseek-r1:free"
+  }
+}
